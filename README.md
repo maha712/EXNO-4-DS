@@ -42,4 +42,4 @@ The feature selection techniques used are:
 ![Screenshot (362)](https://github.com/maha712/EXNO-4-DS/assets/121156360/7dfb14d0-38d4-4a89-aa3b-d3ec5e19adc6)
 ![Screenshot (363)](https://github.com/maha712/EXNO-4-DS/assets/121156360/3aebea2a-4cfc-4a2c-ade5-66af909185de)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus feature scaling and feature selection has been executed succesfully.
